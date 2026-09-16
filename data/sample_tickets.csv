@@ -1,0 +1,9 @@
+ticket_id,customer_email,product_id,category,message,priority
+1001,alice@example.com,1,Billing,"I was charged twice for my last order, please refund one charge.",
+1002,,2,billing,"my invoice looks wrong can someone check it",Medium
+1003,bob@example.com,3,Shipping ,"  Package never arrived, tracking says delivered but it's not here.  ",High
+1004,carol@example.com,,General,"How do I reset my password?",Low
+1005,dave@example.com,4,Refund,"Item arrived damaged, want a full refund immediately",HIGH
+1006,eve@example.com,2,Billing,,Medium
+1007,frank@example.com,5,shipping,"Where is my order? It's been 2 weeks.",high
+1008,alice@example.com,1,Billing,"Following up on ticket 1001 - still no refund.",Medium
